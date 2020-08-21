@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+body {
+    background-image: url("clocks_1024.jpg");
+    background-size: cover;
+}
+
+#clock {
+  font-family: 'Orbitron', sans-serif;
+  color: black;
+  font-size: 56px;
+  
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
