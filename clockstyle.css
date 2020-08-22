@@ -3,6 +3,7 @@
 body {
     background-image: url("clocks_1024.jpg");
     background-size: cover;
+
 }
 
 #clock {
@@ -13,4 +14,5 @@ body {
   text-align: center;
   padding-top: 40px;
   padding-bottom: 40px;
+  opacity: 0.5 c;
 }
