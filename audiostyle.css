@@ -1,0 +1,12 @@
+body{
+    background-image: url("piko.jpg");
+    background-size: initial;
+    text-align: center;
+    
+
+p{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
