@@ -1,8 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css?family=Orbitron');
 body {
-    background-image: url("clocks_1024.jpg");
-    background-size: cover;
+    background-image: url("images.jpg");
+    background-size: contain;
 
 }
 
