@@ -9,7 +9,7 @@ var Y = canvas.height / 2;
 var R = 45;
 ctx.beginPath();
 ctx.arc(X, Y, R, 0, 2 * Math.PI, false);
-ctx.lineWidth = 3;
+ctx.lineWidth = 5;
 ctx.strokeStyle = '#FF0000';
 ctx.stroke();
 }
