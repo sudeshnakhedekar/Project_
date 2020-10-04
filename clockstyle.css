@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Orbitron');
 body {
-    background-image: url("clocks_1024.jpg");
+    background-image: url("img.jpg");
     background-size: contain;
 
 }
@@ -12,7 +12,7 @@ body {
   font-size: 56px;
   
   text-align: center;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   opacity: 0.5 c;
 }
