@@ -70,7 +70,7 @@
     display: inline-block;
     width: 1px;
     height: 40px;
-    background-color: #333;
+    background-color: rgb(116, 87, 87);
     transform: rotateX(34deg) rotateZ(20deg) translateY(20px);
     top: -7px;
 }
@@ -80,12 +80,12 @@
     display: inline-block;
     width: 1px;
     height: 40px;
-    background-color: #333;
+    background-color: rgb(119, 8, 8);
     transform: rotateX(34deg) rotateZ(-20deg) translateY(20px);
     top: -7px;
     left: 15px;
 }
 
 body{
-    background-color: crimson;
+    background-color: rgb(206, 161, 171);
 }
